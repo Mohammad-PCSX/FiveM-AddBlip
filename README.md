@@ -1,1 +1,3 @@
-# FiveM-AddBlip
+- 👋 Hi, I’m @Mohammad-PCSX
+- 👀 Scripting FiveM
+- 📫 Add Blip
